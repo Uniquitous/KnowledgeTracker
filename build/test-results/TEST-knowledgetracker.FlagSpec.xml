@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="knowledgetracker.FlagSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2016-08-25T15:43:09" hostname="DESKTOP-83CRBQI" time="1.707">
+  <properties/>
+  <testcase name="test something" classname="knowledgetracker.FlagSpec" time="1.707">
+    <failure message="Condition not satisfied:&#10;&#10;true == false&#10;     |&#10;     false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+true == false
+     |
+     false
+
+	at knowledgetracker.FlagSpec.test something(FlagSpec.groovy:20)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
