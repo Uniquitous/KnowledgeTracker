@@ -5,7 +5,7 @@ class Knowledge {
 	String details
 	Date lastUpdated
 	
-	static hasMany = [Flag:flags]
+	static hasMany = [flags:Flag]
 
     static constraints = {
     }
